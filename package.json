@@ -6,6 +6,6 @@
   "scripts": { "test": "node teste.js" },
   "dependencies": {
     "ms": "2.1.2",
-    "escape-html": "1.0.2"
+    "escape-html": "1.0.3"
   }
 }
