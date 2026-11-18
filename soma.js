@@ -1,4 +1,7 @@
 function soma(a, b) {
   return a + b;
 }
-module.exports = { soma };
+function multiplica(a, b) {
+  return a * b;
+}
+module.exports = { soma, multiplica };
