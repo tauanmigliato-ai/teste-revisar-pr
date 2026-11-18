@@ -1,4 +1,7 @@
 function soma(a, b) {
   return a + b;
 }
-module.exports = { soma };
+function subtrai(a, b) {
+  return a - b;
+}
+module.exports = { soma, subtrai };
